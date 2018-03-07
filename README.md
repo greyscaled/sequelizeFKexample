@@ -3,7 +3,7 @@ An example of how to setup a foreign key association with Sequelize
 
 ## How to Use
 `npm install`
-run `mocha test/test.js` from rote
+run `mocha test/test.js` from the root folder
 
 ## Notes
 - uses postgres and `pg`
