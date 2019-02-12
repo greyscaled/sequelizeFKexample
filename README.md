@@ -1,4 +1,7 @@
 # Foreign Key example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vapurrmaid/sequelizeFKexample.svg)](https://greenkeeper.io/)
+
 An example of how to setup a foreign key association with Sequelize
 
 ## How to Use
